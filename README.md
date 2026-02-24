@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, sou a Cleonice Oliveira! 👋
 
-<!--
-**cleoniceoliveira/cleoniceoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Ciência de Dados (UNIVESP) | Em transição para Tecnologia
 
-Here are some ideas to get you started:
+Profissional com sólida bagagem em **gestão de negócios** e **atendimento especializado (Saúde/Unimed)**. Atualmente, estou migrando para a tecnologia, focada em aprender as bases de dados e programação para resolver problemas reais e gerar valor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 Áreas de interesse
+- 📊 Análise e Ciência de Dados
+- 🛠️ Suporte Técnico e Customer Success
+- 🧪 QA (Qualidade e Testes de Software)
+- 💻 Desenvolvimento de Software
+### 🛠️ O que estou aprendendo
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+
+---
+
+### 📫 Vamos nos conectar?
+- **Email:** cleooliveiratroiano@gmail.com
+- - **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/cleonice-da-silva-oliveira-2905b8188/?trk=opento_sprofile_topcard)
