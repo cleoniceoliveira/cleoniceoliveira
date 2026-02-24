@@ -20,4 +20,4 @@ Profissional com sólida bagagem em **gestão de negócios** e **atendimento esp
 
 ### 📫 Vamos nos conectar?
 - **Email:** cleooliveiratroiano@gmail.com
-- - **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/cleonice-da-silva-oliveira-2905b8188/?trk=opento_sprofile_topcard)
+* **LinkedIn:** [Cleonice Oliveira](https://www.linkedin.com/in/cleonice-da-silva-oliveira-2905b8188/)
